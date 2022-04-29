@@ -7,3 +7,4 @@ I will import data of traffic crashes in four counties(Ionia, Kent, Montcalm and
 1. Importing and preprocessing data
 2. Visualizing patterns of data  and execute comparative analysis
 3. Understanding and implementing R programming and develop shiny web app.
+The source of the data is: https://mi-suddr.com/blog/2018/09/26/traffic-crashes/
